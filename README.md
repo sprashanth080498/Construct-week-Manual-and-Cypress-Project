@@ -57,5 +57,5 @@ List and provide a brief overview of the technologies used in the project.
 
 - Node.js
 - xmind 
-- excel/msworld
+- excel/msword
 - cypress/vscode
